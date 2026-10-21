@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapy/scrapy-mcp-official/commit/5530c671a7078f4f06479422c623d10b846d3db9",
       "git:hexsha": "5530c671a7078f4f06479422c623d10b846d3db9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T02:52:51.081146+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/scrapy-mcp-official/commit/72a6299e3491ae6c90904e1b79543d3cc04855de",
